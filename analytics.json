@@ -1,0 +1,54 @@
+{
+    "searches": [
+        {
+            "query": "til ofatlari",
+            "timestamp": "2025-12-25 14:26:34"
+        },
+        {
+            "query": "ta'sir psixologiyasi",
+            "timestamp": "2025-12-25 14:26:57"
+        }
+    ],
+    "orders": [
+        {
+            "product_id": 5,
+            "timestamp": "2025-12-25 14:28:47"
+        },
+        {
+            "product_id": 7,
+            "timestamp": "2025-12-25 14:30:05"
+        },
+        {
+            "product_id": 5,
+            "timestamp": "2025-12-25 14:32:27"
+        },
+        {
+            "product_id": 6,
+            "timestamp": "2025-12-25 14:41:31"
+        },
+        {
+            "product_id": 6,
+            "timestamp": "2025-12-25 14:41:31"
+        },
+        {
+            "product_id": 7,
+            "timestamp": "2025-12-25 14:46:15"
+        },
+        {
+            "product_id": 9,
+            "timestamp": "2025-12-25 14:50:13"
+        },
+        {
+            "product_id": 7,
+            "timestamp": "2025-12-25 14:50:48"
+        },
+        {
+            "product_id": 8,
+            "timestamp": "2025-12-25 14:50:48"
+        },
+        {
+            "product_id": 7,
+            "timestamp": "2025-12-25 14:59:17"
+        }
+    ]
+}

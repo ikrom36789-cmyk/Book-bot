@@ -1,0 +1,37 @@
+{
+    "5": {
+        "name": "Qishiq uy",
+        "price": 38000,
+        "description": "“Qishiq uy” — bolalar va o‘smirlar uchun yozilgan qiziqarli va tarbiyaviy mazmunga ega asar.\nKitobda oddiy ko‘rinmagan, biroz g‘alati (qiyshiq) uy va unda yashovchi odamlar hayoti orqali:\ndo‘stlik,\nmehr-oqibat,\nsabr,\nhayotga boshqacha nigoh bilan qarash\nkabi muhim g‘oyalar yoritiladi. Asar bolalarni fikrlashga, kuzatishga va xulosa chiqarishga undaydi. Tili sodda, voqealari esa qiziqarli bo‘lib, o‘quvchini zeriktirmaydi.\nAgar xohlasangiz, men shu kitob uchun sotuvga mos qisqa reklama matni yoki bolalar uchun qiziqarli savol-javob ham tayyorlab beraman.",
+        "image": "AgACAgIAAxkBAAIBB2lL_OgaSPJ_WvSVEfLcpT7eJnS8AAIcDGsb3OJhStjyAXq-PRibAQADAgADeQADNgQ",
+        "category": "Bolalar adabiyoti"
+    },
+    "6": {
+        "name": "Ta'sir psixologiyasi",
+        "price": 78000,
+        "description": "“Ta’sir psixologiyasi” — insonlar fikri, qarorlari va xatti-harakatlariga qanday ta’sir o‘tkazish mumkinligini tushuntiruvchi mashhur psixologik kitob.\nAsarda:\nodamlar nega “ha” deydi,\nishontirish va ta’sir qilishning 6 asosiy psixologik qonuni,\nsavdo, marketing, muzokara va kundalik hayotda ta’sir kuchidan to‘g‘ri foydalanish\noddiy misollar va ilmiy tadqiqotlar asosida bayon qilinadi. Kitob o‘quvchiga inson psixologiyasini chuqurroq tushunish, manipulyatsiyani anglash va ongli qaror qabul qilishga yordam beradi.",
+        "image": "AgACAgIAAxkBAAIESGlNBiI0smoiEPayHI6hYEW4hm6kAAJmDGsb3OJpStzIm9bsnXQqAQADAgADeQADNgQ",
+        "category": "Psixologiya"
+    },
+    "7": {
+        "name": "Boshlang'ich sarmoyachi",
+        "price": 42000,
+        "description": "📗 “Boshlang‘ich sarmoyachi” — bolalar uchun pulni tushunishni o‘rgatuvchi kitob\n➡️Pul qayerdan keladi?\n➡️Uni qanday tejash kerak?\n➡️Pulni faqat sarflash emas, ko‘paytirish ham mumkinmi?\n\n✨ “Boshlang‘ich sarmoyachi” bolalarga moliya olamini ertaklar, misollar va qiziqarli topshiriqlar orqali tushuntiradi.\nBu kitob: \n🌱 Bolada tejamkorlik odatini shakllantiradi\n🌱 Mehnat va pulning qadrini o‘rgatadi\n🌱 Orzu qo‘yish va unga reja bilan erishishni ko‘rsatadi\n🌱 Puldan qo‘rqmasdan, to‘g‘ri foydalanishni o‘rgatadi.\n👨‍👩‍👧‍👦 Ota-onalar uchun: Bu kitob farzandingizga moliyaviy savodxonlikni erta yoshdan o‘rgatadigan eng foydali sovg‘a.",
+        "image": "AgACAgIAAxkBAAIBPGlMAAFIF30z-hyEmRE3tEVv4B0cQgACOAxrG9ziYUoAAbGGCbbxT3YBAAMCAAN5AAM2BA",
+        "category": "Bolalar adabiyoti"
+    },
+    "8": {
+        "name": "Bugun bomdod o'qidingizmi?!",
+        "category": "Diniy",
+        "price": 32000,
+        "description": "“Bugun bomdod o‘qidingizmi?” — bu kitob inson qalbini uyg‘otadigan, iymon va intizomga chorlovchi ruhiy-ma’naviy asardir.\nKitobda bomdod namozining hayotimizdagi o‘rni, uning barakasi, ruhiy kuchi va insonni tartib-intizomga o‘rgatishi sodda, ammo chuqur ma’noli misollar orqali yoritiladi. Muallif o‘quvchini o‘z-o‘ziga savol berishga undaydi: “Bugun bomdod o‘qidimmi?” — bu savol esa faqat namoz haqida emas, balki butun hayotga bo‘lgan munosabat haqida.\nAsarda:\nBomdodning fazilati va hikmatlari\nDangasalik va beparvolikni yengish yo‘llari\nTongni baraka bilan boshlash sirlari\nIymonli inson hayotidagi o‘zgarishlar\nsamimiy va ta’sirli uslubda bayon etilgan.\n📖 Kimlar uchun?\n— Namozga endi kirib kelayotganlar\n— Iymonini mustahkamlashni istaganlar\n— Ruhiy uyg‘onish va tartibli hayot izlayotganlar uchun\nBu kitob — ogohlantirish emas, mehr bilan aytilgan chaqiriq. Har sahifasi qalbga tegadi, har savoli insonni o‘zgartirishga undaydi.",
+        "image": "AgACAgIAAxkBAAIEImlNBOcYpqz72iLKjIm8eLDf6t_qAAJdDGsb3OJpSpbDG7WSdK5eAQADAgADeQADNgQ"
+    },
+    "9": {
+        "name": "Mukoshafatul qulub",
+        "category": "Diniy",
+        "price": 95000,
+        "description": "💫\" Taqvo sohibi bo'l, insonlar orasida eng obidi bo'lasan Qanoatli bo'l, insonlar o'rtasida eng ko'p shukr qiluvchi bo'lasan. O'zing istagan, sevgan narsani boshqalarga ham ravo ko'r, mo'min bo'lasan\" \n     \" Kimki boy odamni boyligi uchun hurmat qilsa, dinining uchdan biri ketadi\"\n   \"Yerdan ehtiyot bo'ling. U sizning onangizdir. Har kim yerning ustida savob yoki gunoh ish qilsa, u albatta buni xabar qiladi\".\n\n✍ Abu Homid G'azzoliy\n📚Mukoshafatul qulub",
+        "image": "AgACAgIAAxkBAAIEOmlNBe22Q_yyxd2cYSI3s4nudGT9AAJlDGsb3OJpShUCjtQP2DkpAQADAgADeQADNgQ"
+    }
+}
